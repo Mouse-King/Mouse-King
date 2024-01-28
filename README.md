@@ -1,8 +1,4 @@
 <h1 align="center">Hi there👋</h1>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=wwwhickup&title=MultiLanguage,Repositories,Stars,Commit,Followers,PullRequest&theme=cobalt" alt="developersuper" />
-</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wwwhickup&label=Profile%20views&color=0e75b6&style=flat" alt="developersuper" />
 </p>
